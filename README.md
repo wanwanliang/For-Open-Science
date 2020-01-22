@@ -7,4 +7,4 @@
 </br>
 </br>
 
-![Data Streaming](/code/dataStreaming.jpg)
+![Data Streaming](/code/dataStreaming.jpg style=centerme)
