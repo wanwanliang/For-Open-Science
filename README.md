@@ -7,4 +7,4 @@
 </br>
 </br>
 
-![Data Streaming](/code/dataStreaming.png)
+![Data Streaming](/code/dataStreaming.jpg)
