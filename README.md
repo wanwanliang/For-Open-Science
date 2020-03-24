@@ -9,4 +9,4 @@
 </br>
 </br>
 
-<div align="center">![Data Streaming](/code/dataStreaming.jpg?style=centerme)</div>
+![Data Streaming] (/code/dataStreaming.jpg?style=centerme)
