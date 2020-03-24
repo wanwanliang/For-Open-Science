@@ -9,4 +9,4 @@
 </br>
 </br>
 
-![Data Streaming] (/code/dataStreaming.jpg?style=centerme)
+![Data Streaming](/code/dataStreaming.jpg?style=centerme)
